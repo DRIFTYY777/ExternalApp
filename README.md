@@ -20,5 +20,3 @@ This project is an external application for the ESP32-S3 that can be booted from
    ```sh
    git clone https://github.com/yourusername/external-app.git
    cd external-app
-2. Put it on external_app folder in sd card 
-3. plugin sd card to device and execute the aap 
